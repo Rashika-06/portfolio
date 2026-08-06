@@ -9,7 +9,7 @@ The portfolio serves as a central platform where visitors can learn more about m
 ## 🚀 Live Demo
 
 🌐 Portfolio Website:  
-https://rashika-06.github.io/portfolio/
+rashika06-portfolio.netlify.app
 
 💻 GitHub Repository:  
 https://github.com/Rashika-06/portfolio
@@ -118,7 +118,7 @@ Contributions, suggestions, and feedback are welcome.
 
 GitHub: https://github.com/Rashika-06
 
-Portfolio: https://rashika-06.github.io/portfolio/
+Portfolio:rashika06-portfolio.netlify.app
 
 
 ---
