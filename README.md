@@ -133,7 +133,6 @@ This project is open-source and available under the MIT License.
 
 **Rashika Patil**
 
-
 Passionate about building innovative solutions through technology and continuously learning new skills.
 
 ---
